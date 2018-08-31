@@ -1,0 +1,44 @@
+body {
+    background-color: lightblue;
+    border:  5px solid black;
+    display: run-in;
+}
+
+p{
+  text-align: center;
+  font-family: amatic SC;
+  color: darkgrey;
+}
+
+#mainNav {
+  min-height: 56px;
+  background-color: white;
+  outline: none;
+}
+
+h2 {
+  padding-top: 60px;
+  text-align: center;
+  font-family: Courier New ;
+  font-size: 40px
+}
+
+img {
+  padding-top: 50px;
+  width: 900px;
+  height: 800px;
+}
+
+p {
+  padding-top: 50px;
+}
+
+.btn {
+  box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
+  padding: 1.25rem 2rem;
+  font-family: 'Varela Round';
+  font-size: 80%;
+  text-transform: uppercase;
+  letter-spacing: .15rem;
+  border: 0;
+}
